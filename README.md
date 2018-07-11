@@ -11,7 +11,7 @@ http://localhost/PHPChat/PHPWebProject1/PHPWebProject1
 </p>
 <p>
   user for test:
-  itarfand@gmail.com:123456
+  itarfand@gmail.com:123456 <br>
   mhkarami1997@gmail.com:123456
 </p>
 <p>
